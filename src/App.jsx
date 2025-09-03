@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="min-h-screen bg-blue-900  flex flex-col items-center p-4">
       {/* Logo da Câmara */}
-      <img src="src/images/logo.png" alt="Logo Câmara" />
+      <img src="https://www.santaleopoldina.es.leg.br/logo.png" alt="Logo Câmara" />
 
       {/* Redes Sociais */}
 
